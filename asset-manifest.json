@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/github.io/stage/static/css/main.8f04e8d4.chunk.css",
-    "main.js": "/github.io/stage/static/js/main.6ceea14c.chunk.js",
-    "main.js.map": "/github.io/stage/static/js/main.6ceea14c.chunk.js.map",
-    "runtime-main.js": "/github.io/stage/static/js/runtime-main.662b0c83.js",
-    "runtime-main.js.map": "/github.io/stage/static/js/runtime-main.662b0c83.js.map",
-    "static/js/2.fdab4f22.chunk.js": "/github.io/stage/static/js/2.fdab4f22.chunk.js",
-    "static/js/2.fdab4f22.chunk.js.map": "/github.io/stage/static/js/2.fdab4f22.chunk.js.map",
-    "static/js/3.b730ba42.chunk.js": "/github.io/stage/static/js/3.b730ba42.chunk.js",
-    "static/js/3.b730ba42.chunk.js.map": "/github.io/stage/static/js/3.b730ba42.chunk.js.map",
+    "main.js": "/github.io/stage/static/js/main.1b643335.chunk.js",
+    "main.js.map": "/github.io/stage/static/js/main.1b643335.chunk.js.map",
+    "runtime-main.js": "/github.io/stage/static/js/runtime-main.79f39f4e.js",
+    "runtime-main.js.map": "/github.io/stage/static/js/runtime-main.79f39f4e.js.map",
+    "static/js/2.220adf4b.chunk.js": "/github.io/stage/static/js/2.220adf4b.chunk.js",
+    "static/js/2.220adf4b.chunk.js.map": "/github.io/stage/static/js/2.220adf4b.chunk.js.map",
+    "static/js/3.954a5729.chunk.js": "/github.io/stage/static/js/3.954a5729.chunk.js",
+    "static/js/3.954a5729.chunk.js.map": "/github.io/stage/static/js/3.954a5729.chunk.js.map",
     "index.html": "/github.io/stage/index.html",
     "static/css/main.8f04e8d4.chunk.css.map": "/github.io/stage/static/css/main.8f04e8d4.chunk.css.map",
-    "static/js/2.fdab4f22.chunk.js.LICENSE.txt": "/github.io/stage/static/js/2.fdab4f22.chunk.js.LICENSE.txt",
+    "static/js/2.220adf4b.chunk.js.LICENSE.txt": "/github.io/stage/static/js/2.220adf4b.chunk.js.LICENSE.txt",
     "static/media/BOTTOM1.15afeddf.jpg": "/github.io/stage/static/media/BOTTOM1.15afeddf.jpg",
     "static/media/TOP1.a096cb8f.jpg": "/github.io/stage/static/media/TOP1.a096cb8f.jpg",
     "static/media/Main.css": "/github.io/stage/static/media/bg2.cb48cedc.jpg",
     "static/media/loading.92b759df.gif": "/github.io/stage/static/media/loading.92b759df.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.662b0c83.js",
-    "static/js/2.fdab4f22.chunk.js",
+    "static/js/runtime-main.79f39f4e.js",
+    "static/js/2.220adf4b.chunk.js",
     "static/css/main.8f04e8d4.chunk.css",
-    "static/js/main.6ceea14c.chunk.js"
+    "static/js/main.1b643335.chunk.js"
   ]
 }
